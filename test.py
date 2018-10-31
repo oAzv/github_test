@@ -8,4 +8,6 @@ import time
 
 if __name__ == '__main__':
     root_dir = os.getcwd().replace('\\', '/') + '/'
+
+    print('guguugu')
     print(root_dir)
